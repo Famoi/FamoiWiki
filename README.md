@@ -1,1 +1,1 @@
-# FamoiWiki
+# Famoi Wiki
